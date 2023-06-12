@@ -1,0 +1,18 @@
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache

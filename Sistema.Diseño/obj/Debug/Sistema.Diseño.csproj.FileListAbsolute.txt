@@ -1,0 +1,137 @@
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.Properties.Resources.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.GenerateResource.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Diseño.exe.config
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Diseño.exe
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Diseño.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Negocio.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Negocio.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.CopyComplete
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.exe
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmPrincipal.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmEmpresa.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.Login.resources
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Diseño.exe.config
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Diseño.exe
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Diseño.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Negocio.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Negocio.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmEmpresa.resources
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmPrincipal.resources
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.Login.resources
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.Properties.Resources.resources
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.GenerateResource.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.CopyComplete
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.exe
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmUsuario.resources
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmRestablecerContraseña.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Diseño.exe.config
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Diseño.exe
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Diseño.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Negocio.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Negocio.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmDeshabilitarCliente.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmEmpresa.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmPrincipal.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmProfesional.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmRestablecerContraseña.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmUsuario.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.Login.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.Properties.Resources.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.GenerateResource.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.csproj.CopyComplete
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.exe
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmDeshabilitarProfesional.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmContrato.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmPago.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmServicio.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmSuspenderContrato.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmSuspenderServicio.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmPrincipalDiseño.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmActividad.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmForzarCierreActividad.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmAprobarPagoServicio.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmEstadistica.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmReporte.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\EnvDTE.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\stdole.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\Microsoft.MSXML.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\RdlCompile.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\RdlCompile.compiled
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.Reportes.frmReporteFolder.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmVisita.resources
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Diseño\obj\Debug\Sistema.Diseño.frmAccidentabilidad.resources

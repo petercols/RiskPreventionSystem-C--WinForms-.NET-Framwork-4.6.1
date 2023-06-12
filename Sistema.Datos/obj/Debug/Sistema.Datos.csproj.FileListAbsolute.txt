@@ -1,0 +1,27 @@
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\test\NoMasac_test\Sistema.NoMasac\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\COLSHON\Desktop\NoMasac_test\Sistema.NoMasac.Escritorio - V1.0\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
